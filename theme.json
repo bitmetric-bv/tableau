@@ -1,0 +1,407 @@
+{
+  "object": {
+    "title": {
+      "main": {
+        "color": "@TitleColor",
+        "fontSize": "@TitleSize"
+      },
+      "subTitle": {
+        "color": "@SubtitleColor",
+        "fontSize": "@SubtitleSize"
+      },
+      "footer": {
+        "color": "@FooterColor",
+        "fontSize": "@FooterSize",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "label": {
+      "name": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      },
+      "value": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      }
+    },
+    "axis": {
+      "title": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      },
+      "line": {
+        "major": {
+          "color": "#eeeeee"
+        },
+        "minor": {
+          "color": "#eeeeee"
+        }
+      }
+    },
+    "grid": {
+      "line": {
+        "highContrast": {
+          "color": "#eeeeee"
+        },
+        "major": {
+          "color": "#eeeeee"
+        },
+        "minor": {
+          "color": "#eeeeee"
+        }
+      }
+    },
+    "referenceLine": {
+      "label": {
+        "name": {
+          "color": "@TextColor",
+          "fontSize": "@TextSize"
+        }
+      },
+      "outOfBounds": {
+        "color": "@TextColor",
+        "backgroundColor": "#ffffff",
+        "fontSize": "@TextSize"
+      }
+    },
+    "legend": {
+      "title": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      },
+      "label": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      }
+    }
+  },
+  "dataColors": {
+    "primaryColor": "#4E79A7",
+    "othersColor": "#CC9B00",
+    "errorColor": "#CC4000",
+    "nullColor": "#CCCCCC"
+  },
+  "palettes": {
+    "data": [
+      {
+        "scale": [
+          "#4E79A7",
+          "#F28E2C",
+          "#E15759",
+          "#76B7B2",
+          "#59A14F",
+          "#EDC949",
+          "#AF7AA1",
+          "#FF9DA7",
+          "#9C755F",
+          "#BAB0AB"
+        ],
+        "name": "Tableau 10",
+        "translation": "Tableau 10",
+        "propertyValue": "bo8rxg",
+        "type": "row",
+        "_id": "5afec38089f19203197d2fcd"
+      },
+      {
+        "scale": [
+          "#aec7e8",
+          "#ffbb78",
+          "#98df8a",
+          "#ff9896",
+          "#c5b0d5",
+          "#c49c94",
+          "#f7b6d2",
+          "#c7c7c7",
+          "#dbdb8d",
+          "#9edae5"
+        ],
+        "name": "Tableau 10 Light",
+        "translation": "Tableau 10 Light",
+        "propertyValue": "ffrcis",
+        "type": "row",
+        "_id": "5afec55f89f19203197d2fd0"
+      },
+      {
+        "scale": [
+          "#729ece",
+          "#ff9e4a",
+          "#67bf5c",
+          "#ed665d",
+          "#ad8bc9",
+          "#a8786e",
+          "#ed97ca",
+          "#a2a2a2",
+          "#cdcc5d",
+          "#6dccda"
+        ],
+        "name": "Tableau 10 Medium",
+        "translation": "Tableau 10 Medium",
+        "propertyValue": "ww17n",
+        "type": "row",
+        "_id": "5afec55f89f19203197d2fcf"
+      },
+      {
+        "scale": [
+          "#1f77b4",
+          "#aec7e8",
+          "#ff7f0e",
+          "#ffbb78",
+          "#2ca02c",
+          "#98df8a",
+          "#d62728",
+          "#ff9896",
+          "#9467bd",
+          "#c5b0d5",
+          "#8c564b",
+          "#c49c94",
+          "#e377c2",
+          "#f7b6d2",
+          "#7f7f7f",
+          "#c7c7c7",
+          "#bcbd22",
+          "#dbdb8d",
+          "#17becf",
+          "#9edae5"
+        ],
+        "name": "Tableau 20",
+        "translation": "Tableau 20",
+        "propertyValue": "jgmfnt",
+        "type": "row",
+        "_id": "5afec88889f19203197d2fd5"
+      },
+      {
+        "scale": [
+          "#60636a",
+          "#a5acaf",
+          "#414451",
+          "#8f8782",
+          "#cfcfcf"
+        ],
+        "name": "Gray 5",
+        "translation": "Gray 5",
+        "propertyValue": "mxno3b",
+        "type": "row",
+        "_id": "5afec88889f19203197d2fd4"
+      },
+      {
+        "scale": [
+          "#006ba4",
+          "#ff800e",
+          "#ababab",
+          "#595959",
+          "#5f9ed1",
+          "#c85200",
+          "#898989",
+          "#a2c8ec",
+          "#ffbc79",
+          "#cfcfcf"
+        ],
+        "name": "Color Blind 10",
+        "translation": "Color Blind 10",
+        "propertyValue": "8t8pmg",
+        "type": "row",
+        "_id": "5afec88889f19203197d2fd3"
+      },
+      {
+        "scale": [
+          "#b10318",
+          "#dba13a",
+          "#309343",
+          "#d82526",
+          "#ffc156",
+          "#69b764",
+          "#f26c64",
+          "#ffdd71",
+          "#9fcd99"
+        ],
+        "name": "Traffic Light",
+        "translation": "Traffic Light",
+        "propertyValue": "nc3jhx",
+        "type": "row",
+        "_id": "5afecfa089f19203197d2fda"
+      },
+      {
+        "scale": [
+          "#7b66d2",
+          "#dc5fbd",
+          "#94917b",
+          "#995688",
+          "#d098ee",
+          "#d7d5c5"
+        ],
+        "name": "Purple Gray 6",
+        "translation": "Purple Gray 6",
+        "propertyValue": "sghgm8",
+        "type": "row",
+        "_id": "5afecfa089f19203197d2fd9"
+      },
+      {
+        "scale": [
+          "#7b66d2",
+          "#a699e8",
+          "#dc5fbd",
+          "#ffc0da",
+          "#5f5a41",
+          "#b4b19b",
+          "#995688",
+          "#d898ba",
+          "#ab6ad5",
+          "#d098ee",
+          "#8b7c6e",
+          "#dbd4c5"
+        ],
+        "name": "Purple Gray 12",
+        "translation": "Purple Gray 12",
+        "propertyValue": "i9fhao",
+        "type": "row",
+        "_id": "5afecfa089f19203197d2fd8"
+      },
+      {
+        "scale": [
+          "#2c69b0",
+          "#f02720",
+          "#ac613c",
+          "#6ba3d6",
+          "#ea6b73",
+          "#e9c39b"
+        ],
+        "name": "Blue Red 6",
+        "translation": "Blue Red 6",
+        "propertyValue": "2939ts",
+        "type": "row",
+        "_id": "5afecfa089f19203197d2fd7"
+      },
+      {
+        "scale": [
+          "#2c69b0",
+          "#b5c8e2",
+          "#f02720",
+          "#ffb6b0",
+          "#ac613c",
+          "#e9c39b",
+          "#6ba3d6",
+          "#b5dffd",
+          "#ac8763",
+          "#ddc9b4",
+          "#bd0a36",
+          "#f4737a"
+        ],
+        "name": "Blue Red 12",
+        "translation": "Blue Red 12",
+        "propertyValue": "6mevs",
+        "type": "row",
+        "_id": "5afecfa089f19203197d2fd6"
+      },
+      {
+        "scale": [
+          "#32a251",
+          "#ff7f0f",
+          "#3cb7cc",
+          "#ffd94a",
+          "#39737c",
+          "#b85a0d"
+        ],
+        "name": "Green Orange 6",
+        "translation": "Green Orange 6",
+        "propertyValue": "8fyb4d",
+        "type": "row",
+        "_id": "5afed02589f19203197d2fdc"
+      },
+      {
+        "scale": [
+          "#32a251",
+          "#acd98d",
+          "#ff7f0f",
+          "#ffb977",
+          "#3cb7cc",
+          "#98d9e4",
+          "#b85a0d",
+          "#ffd94a",
+          "#39737c",
+          "#86b4a9",
+          "#82853b",
+          "#ccc94d"
+        ],
+        "name": "Green Orange 12",
+        "translation": "Green Orange 12",
+        "propertyValue": "73m704",
+        "type": "row",
+        "_id": "5afed02589f19203197d2fdb"
+      }
+    ],
+    "ui": [
+      {
+        "colors": [
+          "#4E79A7",
+          "#F28E2C",
+          "#E15759",
+          "#76B7B2",
+          "#59A14F",
+          "#EDC949",
+          "#AF7AA1",
+          "#FF9DA7",
+          "#9C755F",
+          "#BAB0AB"
+        ],
+        "name": "Tableau 10",
+        "_id": "5afec33a89f19203197d2fcb"
+      }
+    ]
+  },
+  "customStyles": [
+    {
+      "cssRef": "theme.css",
+      "classRef": "sense-theme"
+    }
+  ],
+  "scales": [
+    {
+      "scale": [
+        "#a54323",
+        "#dd6420",
+        "#fe9431",
+        "#75add8",
+        "#4a84b5",
+        "#285889"
+      ],
+      "name": "Red to Blue (class)",
+      "translation": "Red to Blue (class)",
+      "type": "class",
+      "propertyValue": "h7u1pa",
+      "_id": "5afed1ad89f19203197d2fde"
+    },
+    {
+      "scale": [
+        "#a54323",
+        "#dd6420",
+        "#fe9431",
+        "#75add8",
+        "#4a84b5",
+        "#285889"
+      ],
+      "name": "Red to Blue (gradient)",
+      "translation": "Red to Blue (gradient)",
+      "type": "gradient",
+      "propertyValue": "1sct9r",
+      "_id": "5afed1ad89f19203197d2fdd"
+    }
+  ],
+  "_inherit": true,
+  "_variables": {
+    "@TitleSize": "16px",
+    "@SubtitleSize": "15px",
+    "@TextSize": "12px",
+    "@FooterSize": "10px",
+    "@TitleColor": "#888888",
+    "@SubtitleColor": "#888888",
+    "@TextColor": "#888888",
+    "@FooterColor": "#888888",
+    "@BackgroundColor": "#ffffff",
+    "@AxisMajorColor": "#eeeeee",
+    "@AxisMinorColor": "#eeeeee"
+  },
+  "color": "@TextColor",
+  "fontSize": "@TextSize",
+  "backgroundColor": "@BackgroundColor"
+}
